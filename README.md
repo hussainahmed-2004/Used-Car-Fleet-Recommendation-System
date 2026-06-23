@@ -82,3 +82,16 @@ This project addresses that challenge by creating a data-driven vehicle ranking 
 Developed a Fleet Score framework that reduced subjective vehicle selection and enabled data-driven acquisition decisions.
 
 ---
+## Dashboard Screenshots
+
+### Executive Dashboard
+
+![Executive Dashboard](executive_dashboard.png.png)
+
+### Fleet Recommendation Framework
+
+![Fleet Recommendation](fleet_recommendation.png.png)
+
+### Market Analysis Dashboard
+
+![Market Analysis](market_analysis.png.png)
