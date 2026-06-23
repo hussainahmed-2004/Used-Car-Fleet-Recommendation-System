@@ -77,6 +77,8 @@ This project addresses that challenge by creating a data-driven vehicle ranking 
 - Built a Fleet Score ranking system.
 - Developed interactive drill-through navigation.
 - Created vehicle recommendation dashboards.
-- Generated market insights for fleet acquisition decisions.
+- Identified Hyundai Grand i10 Nios as the most attractive acquisition candidate based on price, age, and mileage rankings.
+
+Developed a Fleet Score framework that reduced subjective vehicle selection and enabled data-driven acquisition decisions.
 
 ---
